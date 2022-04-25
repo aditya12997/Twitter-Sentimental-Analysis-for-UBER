@@ -1,6 +1,9 @@
 
 # Twitter Sentimental Analysis for UBER
 
+
+<img width="586" alt="Screenshot 2022-04-25 at 6 09 31 PM" src="https://user-images.githubusercontent.com/54794852/165129364-99ec8189-c9e5-4c14-a632-86c8d6324831.png">
+
 This project is related to perform a Sentimental Analysis on the data extracted from the TWITTER API where we are performing a Sentimental Analysis about what the users think about the services that is being provided by UBER. This project can help us understand what kind of reviews are the service attracting and how can uber leverage this analysis to make instant changes. 
 
 
