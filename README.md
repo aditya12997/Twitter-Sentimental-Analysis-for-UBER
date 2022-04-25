@@ -37,7 +37,9 @@ Neutral Sentiment - 50.5%
 <img width="443" alt="Screenshot 2022-04-25 at 6 04 51 PM" src="https://user-images.githubusercontent.com/54794852/165128550-4ecdbbf0-4d01-413d-a375-61a21662eded.png">
 
 Looking at the spread of the data points one can clearly say that the are scattered around and neither they have strong negative nor positive sentiment, but most of it is Neutral which indicates that UBER can actually implement strategies and improves its services by understanding the painpoints of the customers.
+
 <img width="684" alt="Screenshot 2022-04-25 at 6 05 21 PM" src="https://user-images.githubusercontent.com/54794852/165128644-1dbad986-8d84-4f5f-9192-532f4137577f.png">
+
 
 ## Conclusion
 
